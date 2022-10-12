@@ -32,7 +32,7 @@
 
 ### :floppy_disk: **Application Pictures**
 ![image](https://user-images.githubusercontent.com/109723263/195321745-755770df-38be-4a31-a306-46dd8afc9784.png)
-![image](https://user-images.githubusercontent.com/109723263/195321354-7563e7e2-4b6c-437a-acc8-d96f93e9bd58.png)
-![image](https://user-images.githubusercontent.com/109723263/195321372-479c59a5-4f30-4f40-9652-fe332e067354.png)
+![image](https://user-images.githubusercontent.com/109723263/195321981-a6931542-9282-4095-8b7c-9e7ffe8eeb2b.png)
+![image](https://user-images.githubusercontent.com/109723263/195321992-2d67b657-2701-4b9b-86cd-b2bee55e533a.png)
 ![image](https://user-images.githubusercontent.com/109723263/195321396-e48bd966-1356-43c4-a58b-4cd0448b7410.png)
 
